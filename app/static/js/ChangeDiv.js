@@ -13,7 +13,7 @@ function GetRadiovalue()
     if(radioval == "manually")
     {
         xl.style = "display:none";
-        man.style = "display:block;color:#2f3542";
+        man.style = "display:block";
     }
     else if(radioval == "xls")
     {
